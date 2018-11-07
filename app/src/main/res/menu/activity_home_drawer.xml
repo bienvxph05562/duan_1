@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gioithieudoibong"
+            android:icon="@drawable/ic_rate_review_black_24dp"
+            android:title="Giới thiệu đội bóng" />
+        <item
+            android:id="@+id/nav_quanlithanhvien"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Quản lí thành viên" />
+        <item
+            android:id="@+id/nav_sodochienthoat"
+            android:icon="@drawable/ic_assignment_ind_black_24dp"
+            android:title="Sơ đồ chiến thuật" />
+        <item
+
+            android:id="@+id/nav_hoatdongtrongthang"
+            android:icon="@drawable/ic_av_timer_black_24dp"
+            android:title="Hoạt động trong tháng" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_thoat"
+                android:icon="@drawable/ic_remove_circle_outline_black_24dp"
+                android:title="Thoát" />
+
+        </menu>
+    </item>
+
+</menu>
