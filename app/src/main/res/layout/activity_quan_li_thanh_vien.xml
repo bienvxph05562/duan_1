@@ -1,9 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".QuanLiThanhVienActivity">
 
-</android.support.constraint.ConstraintLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <ImageView
+
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/image_backgroud"
+            android:src="@drawable/ic_account_circle_black_24dp" />
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Hoten"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_below="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-5dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50">
+
+            <EditText
+                android:id="@+id/edtHoten"
+                android:layout_width="233dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Họ tên" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Tuoi"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_below="@+id/til_Hoten"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-5dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50"
+            >
+
+            <EditText
+                android:inputType="number"
+                android:id="@+id/edtTuoi"
+                android:layout_width="233dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Tuổi" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Quequan"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_below="@+id/til_Tuoi"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-5dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50">
+
+            <EditText
+                android:id="@+id/edtQuequan"
+                android:layout_width="233dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Quê quán" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Noiohiennay"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_below="@+id/til_Quequan"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-5dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50">
+
+            <EditText
+                android:id="@+id/edtNoiohiennay"
+                android:layout_width="233dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Nơi ở hiện nay" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Ngaythangnamsinh"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_below="@+id/til_Noiohiennay"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-5dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50">
+
+            <EditText
+                android:inputType="datetime"
+                android:id="@+id/edtNgaythangnamsinh"
+                android:layout_width="233dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Ngày tháng năm sinh" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Vitrithidau"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_below="@+id/til_Ngaythangnamsinh"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-5dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50">
+
+            <EditText
+                android:id="@+id/edtVitrithidau"
+                android:layout_width="233dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Vị trí thi đấu sở trường" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Mucluong"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_alignStart="@+id/til_Hoten"
+            android:layout_below="@+id/til_Vitrithidau"
+            app:counterEnabled="true"
+            app:counterMaxLength="50">
+
+            <EditText
+                android:id="@+id/edtMucluong"
+                android:layout_width="232dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Mức lương ($)"
+                android:inputType="number" />
+
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_Ghichu"
+            android:layout_width="250dp"
+            android:layout_height="74dp"
+            android:layout_below="@+id/til_Mucluong"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-5dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50">
+
+            <EditText
+                android:id="@+id/edtGhichu"
+                android:layout_width="233dp"
+                android:layout_height="39dp"
+                android:layout_marginTop="15dp"
+                android:ems="10"
+                android:hint="Ghi chú" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/til_Ghichu"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btnThem"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Thêm"
+            android:layout_gravity="center_horizontal"
+            android:background="#FF0000"/>
+
+        <Button
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/btnThem"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btnXemdanhsach"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Xem danh sách"
+            android:layout_gravity="center_horizontal"
+            android:background="#FF0000"/>
+
+    </RelativeLayout>
+
+</ScrollView>

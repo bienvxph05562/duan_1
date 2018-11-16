@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.activity.myapplication">
 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -17,13 +19,38 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity
             android:name=".HomeActivity"
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".GioiThieuDoiBongActivity" />
         <activity android:name=".QuanLiThanhVienActivity" />
         <activity android:name=".SoDoChienThuatActivity" />
-        <activity android:name=".HoatDongTrongThangActivity"></activity>
+        <activity android:name=".HoatDongTrongThangActivity" />
+        <activity android:name=".sodochienthuat.SoDo4321Activity" />
+        <activity android:name=".sodochienthuat.SoDo532Activity" />
+        <activity android:name=".sodochienthuat.SoDo433Activity" />
+        <activity android:name=".sodochienthuat.SoDo4231Activity" />
+        <activity android:name=".sodochienthuat.SoDo235Activity" />
+        <activity android:name=".sodochienthuat.SoDo4222Activity" />
+        <activity android:name=".sodochienthuat.SoDo422Activity" />
+        <activity android:name=".sodochienthuat.SoDo451Activity" />
+        <activity android:name=".sodochienthuat.SoDo352Activity" />
+        <activity android:name=".thang.Thang1Activity" />
+        <activity android:name=".thang.Thang2Activity" />
+        <activity android:name=".thang.Thang3Activity" />
+        <activity android:name=".thang.Thang5Activity" />
+        <activity android:name=".thang.Thang6Activity" />
+        <activity android:name=".thang.Thang8Activity" />
+        <activity android:name=".thang.Thang9Activity" />
+        <activity android:name=".thang.Thang10Activity" />
+        <activity android:name=".thang.Thang11Activity" />
+        <activity android:name=".thang.Thang12Activity" />
+        <activity android:name=".thang.Thang4Activity" />
+        <activity android:name=".thang.Thang7Activity" />
+        <activity android:name=".ThemListActivity"></activity>
     </application>
 
 </manifest>

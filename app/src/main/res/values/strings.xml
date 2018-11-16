@@ -1,10 +1,127 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Đội bóng Fpoly</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+
+
+    <string name="recent_news">  GIỚI THIỆU Đội Bóng Fpoly  </string>
+    <string name="recent_news2">  FPT Polytechnic lần đầu vô địch Cup C1 FPT  </string>
+    <string name="in_new"> Câu lạc bộ bóng đá FPT Polytechnic là một câu lạc bộ bóng đá chuyên nghiệp có trụ sở tại toàn nhà FPT Polytechnic Hàm Nghi-Hà Nội. Câu lạc bộ còn có tên khác là FC Mất đồ. Với  thành tích 5 lần vô địch poly cup, và 1 lần vô địch C1, có thể nói Fc Poly là một đội bóng rất mạnh ở khu vực Hà Nội.
+
+-Sân nhà: Tân Mỹ
+-Người quản lý: Nguyễn Vũ
+-Chủ tịch: Nguyễn Việt Hùng
+-Đội trưởng: Phùng Văn Mạnh
+-Các giải đấu từ tham dự: poly cup, C1, HPL, Bóng đá sân 7, UEFA Champion Leage. </string>
+
+    <string name="in_new2">Trận đấu được chờ đợi nhất chính là cuộc thư hùng giữa FPT Polytechnic và FPT IS UN nhằm tìm ra đội bóng nắm giữ Cup Vàng.
+
+Cùng có lối chơi thận trọng nên trong những phút đầu tiên của trận đấu, cả hai đội đều không kiến tạo được tình huống nguy hiểm nào về phía khung thành đối thủ. Trong trận cuối cùng của mình, FPT IS UN có sự trở lại vô cùng quan trọng của tiền đạo Trần Văn Minh (mang áo số 5) và đây chính là cầu thủ đe dọa khung thành thủ môn Xuân Đắc bên phía FPT Polytechnic nhiều nhất.
+    Ngược lại với những nhận định trước trận đấu, đội bóng của FPT IS đã sử dụng lối đá tấn công trực diện, dồn ép FPT Polytechnic về phía sân nhà bằng sự cơ động và nhanh nhẹn của tiền vệ Thành Trung (số 10) và Nguyễn Trường Đại (số 9). Trước lối tấn công mạnh mẽ từ đối thủ, các cầu thủ FPT Polytechnic chọn lối phòng thủ chắc chắn, bình tĩnh hóa giải các đợt tấn công của đối phương, đồng thời đôi lúc tấn công nhanh ở hai cánh khiến hàng hậu vệ dưới sự chỉ đạo của Đỗ Văn Long (số 68) bên FPT IS UN lao đao.
+
+Phút thứ 13 của trận đấu, tiền đạo Viết Xuân (số 11) đón đường chuyền vượt tuyến tuyệt đẹp từ hậu vệ và đánh đầu, bóng vượt qua trung vệ Trường Đại dâng cao. Ngay sau đó anh băng xuống tiếp tục đệm thêm cú đánh đầu hiểm hóc qua tay thủ môn FPT IS UN, mở tỷ số cho FPT Polytechnic.
+
+Những phút sau đó, FPT IS UN tràn lên tấn công, với sự có mặt của tài năng Nguyễn Đức Phương (số 6), cơ hội cũng mở ra nhiều hơn với các hảo thủ. Tuy nhiên, sự xuất sắc của hàng thủ FPT Polytechnic cũng như thủ thành Xuân Đắc đã khiến mọi nỗ lực của FPT IS UN trở nên vô nghĩa. Ngược lại, do mải mê tấn công, sự đe dọa khung thành FPT IS UN càng trở nên rõ ràng hơn. Tiền đạo Nguyễn Viết Xuân đã nâng tỷ số lên 2-0 nhờ khả năng quan sát trận đấu cũng như nhãn quan chiến thuật sắc bén.
+
+Chưa hết choáng váng sau bàn thua thứ hai, FPT IS UN còn nhận tiếp bàn thua thứ 3, và người lập công không ai khác lại là tiền đạo Nguyễn Viết Xuân. Sau pha phá bóng không dứt khoát của hậu vệ Đỗ Văn Long, bóng đến chân Viết Xuân, anh đẩy bóng bằng mũi chân tinh tế gần như loại bỏ hàng hậu vệ của FPT IS UN trước khi tung cú sút mạnh như kẻ chỉ lập nên hattrick trong trận đấu này.
+
+Những phút sau đó, FPT IS UN dường như bừng tỉnh, tấn công điên cuồng và nhiều phen khiến các cổ động viên đội bóng Cao đẳng thót tim. Tuy nhiên, điều đó cũng chỉ giúp FPT IS UN ghi bàn thắng danh dự do công của Nguyễn Trường Đại (số 9).
+
+Với chiến thắng chung cuộc 3-1, FPT Polytechnic lần đầu tiên mang về cho mình chiếc Cup Vàng C1 đầy danh giá.
+
+Dù để lọt Cup Vàng vào tay FPT Polytechnic nhưng cầu thủ Nguyễn Minh Trung của đội FPT IS UN vẫn cảm thấy hài lòng: “Lần đầu tiên thua trận chung kết mà tôi không thấy cay cú hay muốn gây sự đánh nhau”. Theo anh, trong trận chung kết, đối thủ đá quá "nét". “FPT Polytechnic đá vừa vừa kỹ thuật, vừa khỏe, vừa khôn bóng, vừa nhanh như chớp, phối hợp nhuyễn, chơi rắn, kỷ luật... y như mình hồi 20 tuổi. Cứ đà này FPT Polytechnic sẽ còn vô địch thêm hai năm nữa”, anh nhận định.
+    </string>
+
+    <string name="publish_date"> Ngày thành lập: 8 . 1 . 2008  </string>
+
+    <string name="sodo_235"> Bayern đã sử dụng sơ đồ kỳ lạ này trong một vài trận ở chiến dịch 2015-16 và nó tỏ ra đặc biệt hiệu quả trước các đối thủ chơi phòng ngự quá chặt chẽ (như Atletico Madrid ở bán kết Champions League tối nay?) Thật ra, không thể nói đó là một sáng tạo hoàn toàn mới. Guardiola, cho tới thời điểm này của sự nghiệp, đã dẫn dắt 2 đội bóng gần như lúc nào cũng chơi áp đảo trước mọi đối thủ, và Barcelona thời Pep thực ra từng không ít lần đá với 5 cầu thủ tấn công dâng cao.
+Ở Bayern, về cơ bản tuyến phòng ngự cuối cùng sẽ bao gồm 2 trung vệ. Các lựa chọn ưu tiên là Jerome Boateng, Medhi Benatia, và Javi Martinez (với Manuel Neuer, khi còn lành lặn, cũng góp phần quan trọng như một thủ môn kiêm hậu vệ quét). Nhưng đôi khi vì chấn thương hay để thay đổi, Pep cũng sử dụng Rafinha, hay thậm chí là David Alaba. Thật ra với Guardiola, các kỹ năng thông thường của một trung vệ: Sức mạnh, cản phá tốt, chơi bóng bổng giỏi… lại chỉ có vai trò thứ yếu trong hệ thống này, nơi cảm nhận vị trí, khả năng cắt bóng và phát động tấn công mới là ưu tiên.
+Trên cơ sở một hàng thủ như thế, hệ thống 2-3-5 được xây dựng với tiêu chuẩn là không cầu thủ nào đứng thành một đường thẳng với một đồng đội của mình (theo hướng đường biên ngang). Điều này quan trọng bởi nó sẽ tạo ra rất nhiều lựa chọn chuyền bóng cho người có bóng, đồng thời trải đều những hình tam giác phối hợp nhóm khắp mặt sân, cho tới 1/3 sân đối phương. </string>
+
+    <string name="sodo_352">  Điểm mạnh
+Nếu muốn ngăn cản đối phương phản công, sẽ là khôn ngoan nếu bạn chọn 3-5-2. Bộ ba hậu vệ đủ sức phong tỏa sự phối hợp giữa “số 10” và các tiền đạo đối phương, còn các cầu thủ chạy cánh thì sẽ hạn chế được những pha leo biên của đội bạn. Khi cần phòng ngự, tuyến giữa có thêm một tiền vệ chơi lùi sâu để bọc lót cho các cầu thủ chạy cánh.
+
+3-5-2 hữu hiệu để chống phản công, nhưng đồng thời nó cũng cực kì hiệu quả khi phản công. Bộ ba tiền vệ cùng 2 cầu thủ chạy cánh tạo nên khá nhiều phương án tấn công từ trung lộ tới đánh biên, trong khi 2 tiền đạo cũng có thể tự mình tạo cơ hội.
+
+Điểm yếu
+Tính phức tạp của 3-5-2, đặc biệt trong những tình huống bọc lót giữa các vị trí và khởi đầu các đợt tấn công, đòi hỏi không chỉ khả năng cá nhân mà còn khả năng đồng đội, sự ăn ý giữa các vị trí. Bộ ba hậu vệ cũng cần có ít nhất một người giỏi chuyền bóng, còn 2 người còn lại phải xuất sắc trong kèm người và kỉ luật vị trí.
+
+Vẫn có thể chơi phòng ngự khu vực với 3-5-2, nhưng nó đòi hỏi cảm giác vị trí vô cùng tốt và tốc độ để theo sát đối thủ trước khi để lộ khoảng trống. Thường thì sẽ có một tiền vệ lùi sâu đảm nhiệm vai trò bọc lót cho hậu vệ đã bỏ vị trí.
+
+Những đội sử dụng: Torino, Palermo, Fiorentina (như hình trên), Hà Lan (World Cup 2014).
+
+Sơ đồ khắc chế
+3-5-2 là sơ đồ hiếm hoi có được nhân lực ở giữa sân cân bằng với 4-5-1. Hơn thế, việc chỉ có 1 tiền đạo đối phương phải để mắt tới cho phép các hậu vệ tự tin dâng cao hỗ trợ tuyến giữa khi đội nhà đang nắm quyền kiểm soát thế trận. </string>
+
+    <string name="sodo_442">  Một trong những sơ đồ cổ điển nhất vẫn còn tồn tại và phổ biến tới ngày nay. Dù 4-4-2 gắn liền với các đội bóng Anh, nhưng thực ra nó được sử dụng ở rất nhiều quốc gia bởi tính cân bằng tương đối của nó.
+
+Điểm mạnh
+Chơi bóng với 2 tiền đạo giúp tuyến tiền vệ và hậu vệ được giảm tải nhiệm vụ hỗ trợ tấn công. Thường thì những tiền đạo trong sơ đồ 4-4-2 phải có khả năng “tự làm, tự ăn”, tức là tự mình tạo cơ hội và ghi bàn hoặc bổ sung lẫn nhau để hoàn thiện hàng công. Một trong hai tiền đạo nên có kỹ năng không chiến tốt để tận dụng các đường tạt bóng.
+
+Với hai tiền vệ cánh chơi rộng và hai hậu vệ biên, sơ đồ 4-4-2 cho phép những quả tạt hoặc căng ngang vào vòng cấm xuất hiện thường xuyên. Cự li đội hình hợp lý cũng giúp cho 4-4-2 dễ kéo dãn các tuyến của đối phương nếu di chuyển phù hợp.
+
+Nhờ cấu trúc rõ ràng và dễ vận hành, rất nhiều đội bóng ưu tiên 4-4-2, đặc biệt là những đội phải chịu sức ép hay cần lùi sâu phòng ngự.
+
+Điểm yếu
+Dễ bị bắt bài và thiếu linh hoạt là 2 vấn đề lớn của 4-4-2. Ngoài ra, các vị trí tiền vệ phải chịu áp lực rất lớn trong cả nhiệm vụ tấn công lẫn phòng ngự. Khi các tiền vệ cánh chơi thiếu kỉ luật phòng ngự, đó sẽ là vấn đề thực sự với các HLV. Bên cạnh đó, những vị trí tiền vệ trung tâm khó có thể đảm nhiệm tốt cả 2 vai trò đánh chặn từ xa và kiểm soát thế trận.
+
+Chưa kể, chính hai hành lang cánh có thể trở thành “gót Achilles” để đối phương khoét vào, đặc biệt với các sơ đồ sử dụng những cầu thủ đá cánh đi bóng vào trung lộ tận dụng khoảng trống giữa trung vệ và hậu vệ biên như 4-3-3 và 4-2-3-1.
+
+Những đội sử dụng: Atletico Madrid, Leicester City, Borussia Moenchengladbach, AC Milan (giai đoạn 1987-1991).
+
+Sơ đồ khắc chế
+Hiện nay 4-4-2 không còn phổ biến nữa, bởi nó lép vế so với đa số các sơ đồ chiến thuật khác. Tuy nhiên, nếu có được 2 tiền đạo biết hoạt động độc lập và chịu khó pressing liên tục, 4-4-2 cũng có thể gây nên áp lực cho những hàng thủ 3 hoặc thậm chí 4 người.  </string>
+
+    <string name="sodo_4222"> Nếu ai để ý thì đội hình này chủ chốt luôn nằm ở 2 tiền vệ phòng ngự (CDM). Vì cả sơ đồ chiến thuật sẽ vận hành theo bộ máy của 2 cầu thủ CDM nên nếu bạn muốn sử dụng đội hinh này việc đầu tiên bạn phải có cho mình 2 CDM cực tốt. Trong đó, một người sẽ cực mạnh về phòng thủ và người còn lại sẽ về việc triển khai tấn công và phản công.
+Bởi vì sơ đồ này không có tiền vệ trung tâm (CM) nên 2 CDM sẽ phải chơi theo phong cách box-to-box suốt cả trận. Cho nên yêu cầu đầu tiên đối với 2 CDM này đó chính là chỉ số thể lực tốt, và có thêm tốc độ thì đó là điểm hoản hảo nhất cho phần mở đầu câu chuyện. Tiếp đó là khả năng chuyền chọt và sút xa. Khả năng chuyền tốt sẽ giúp cho tuyến giữa của bạn trở nên thanh thoát và dễ lên bóng cho tuyến trên hơn. Khả năng sút xa cũng nên có để tăng thêm phương án ghi bàn trong các tình huống cố định, hoặc những phá bế tắc.  </string>
+
+
+    <string name="sodo_4231"> Nói đến 4-2-3-1 chúng ta nghĩ đến ngay sự cân bằng công thủ với bộ tứ hậu vệ cùng 2 tiền vệ phòng ngự án ngữ trước khu vực 16m50 và 4 cầu thủ chuyên tấn công. Hãy hình dung tới Chelsea mùa giải này:
+
+Mourinho luôn sử dụng 2 cầu thủ chạy cánh kỹ thuật, tốc độ và bền bỉ. Trong đó, luôn có 1 “Inside Forward” là cầu thủ xâm nhập vòng cấm đối phương và là cầu thủ nguy hiểm nhất trong đội hình đó là Eden Hazard (có lối chơi tương tự Cristiano Ronaldo ở Real) và một “Winger” chuyên dốc bóng tốc độ, tạt bóng chính xác vào bên trong cho tiền đạo hoặc “inside forward” băng vào. Tiếp đến là 1 tiền đạo lùi/tiền vệ tấn công đóng vai trò trung tâm mọi đợt lên bóng, được tạo điều kiện di chuyển tự do để xâm nhập vòng cấm hoặc lùi về phòng ngự khi cần.
+
+Cùng với việc sử dụng 2 tiền vệ cánh dâng cao, khoảng trống cực lớn giữa hậu vệ cánh và tiền vệ cánh chắc chắn sẽ lộ ra. Và nhiệm vụ của 2 tiền vệ trụ lúc này, không chỉ là giúp đỡ 2 trung vệ, mà còn phải bù lấp vào hỗ hổng đó.
+
+Ở đây, trong đội hình của mình, tôi luôn dùng 1 tiền vệ có khả năng chuyền bóng, kiến thiết và quán xuyến việc luân chuyển bóng lên cho tuyến trên, tránh việc phải quá phụ thuộc và 2 cánh. Bên cạnh đó là 1 tiền vệ cơ bắp đúng nghĩa chuyên thu hồi bóng, tranh chấp bóng với những mối nguy hiểm manh nha xuất hiện ngoài vòng cấm để hạn chế sức tấn công của đối thủ ngay từ lúc nó chưa được bắt đầu.
+
+Để nói đến hàng thủ, chúng ta cần một cái nhìn chi tiết và cực kỳ logic mới thấy được sự lì lợm mà hệ thống phòng ngự này mang lại.  </string>
+
+    <string name="sodo_4321"> Là 1 biến thể của 4-3-3 với 4 hậu vệ, 3 tiền vệ trung tâm, 2 hộ công cánh và 1 trung phong cắm.
+Hiện nay Barca song song vận hành 4-3-2-1. 1 sơ đồ mà những pha phối hợp nhỏ ít chạm là vũ khí hàng đầu. Khi đá 4-3-2-1 thì chúng ta không nhất thiết phải sừ dụng các cầu thủ lực lưỡng. Mà thậm chí những chú lùn như Messi, Iniesta, Xavi lại tung hoành dễ dàng nhất với sơ đồ này.
+
+a. ưu điểm
+-Như đã nói ở trên, điểm mạnh nhất của 4-3-2-1 chính là cự li đội hình. 11 cầu thủ trên sân với vị trí hợp lí , có thể giúp cho NQL kiểm soát tốt thế trận bằng những pha phối hợp nhỏ, ngắn bằng QS, W, QW….
+-Có 2 hộ công cánh (LF và RF) đá thấp, có thể đảm nhận khâu phòng ngự từ xa giúp các tiền vệ bớt “nặng gánh”.
+-Không quá thiên về tấn công cánh nên 2 hậu vệ biên cũng không dâng cao, tránh những pha phản công nhanh (nhất là từ 2 cánh).
+b. nhược điểm
+- không thích hợp cho những ai chơi tấn công cánh vì không có vị trí nào đảm nhận phân phối bóng từ cánh. Tuy vậy, tùy vào hoàn cánh trận đấu thì L(R)F hay L(R)CM cũng có thể dạt ra biên để giúp bạn có những pha lật cánh, căng ngang hay là rê biên.
+-chỉ có duy nhất 1 cầu thủ cắm cọc ở sân đối phương, không thuận lợi cho lối đá "all deffense – counter attack"
+-ST phải nhanh nhẹn, chạy chỗ thông minh, có khả năng khống chế, xử lý bóng từ những pha chọc khe (sệt-bổng).  </string>
+
+    <string name="sodo_433"> Nhiều người sẽ nghĩ đến P. Guardiola hay Barcelona khi nhắc tới 4-3-3. Chúng ta hãy bỏ qua phần lịch sử khô khan và dông dài, thực tế thì Barcelona là đội rất thành công với sơ đồ này. Real Madrid và AS Roma cũng có thời gian chơi 4-3-3 biến thể.
+
+Ngay cả Barcelona cũng vậy, họ sẽ cho cầu thủ tấn công thay đổi vị trí một chút hoặc thậm chí cho phép di chuyển tự do ở trên để đối phương không thể phán đoán và phòng ngự trước sự biến ảo của các pha phối hợp. Tây Ban Nha của Euro 2016 thất bại vì họ khá cứng nhắc trong lối chơi 4-3-3- đã bị bắt bài kĩ.  </string>
+
+    <string name="sodo_451"> Điểm mạnh
+Với nhân sự đông đảo ở giữa sân, 4-5-1 đủ sức giành quyền kiểm soát thế trận trước hầu hết các sơ đồ khác. Đôi khi bạn còn có thể thấy vị trí tiền đạo duy nhất lùi sâu để cố tranh chấp bóng, biến sơ đồ này thành 4-6-0 và sẽ là cực khó cho đối thủ vượt qua được hàng rào người để tìm đường đến khung thành.
+
+Sơ đồ này cũng rất dễ chuyển sang thế công khi cần. Bằng cách đẩy hai tiền vệ biên lên cao hơn, nó lập tức trở thành tương tự như 4-3-3. Thực tế, nhiều đội bóng bắt đầu với 4-3-3 nhưng rồi sau đó chuyển trạng thái thành 4-5-1 ngay khi có được bàn thắng dẫn trước.
+
+Điểm yếu
+Quá tập trung vào kiểm soát tuyến giữa có thể là điểm yếu, bởi tiền đạo cắm hoàn toàn có nguy cơ bị cô lập. Những tiền vệ trong sơ đồ 4-5-1 không quá sẵn sàng xuyên phá như 4-2-3-1 hay 4-3-3, và ngay khi bị thủng lưới, các đội bóng chơi 4-5-1 nhiều khả năng phải thay đổi cả hệ thống.
+
+Ngoài ra, lối chơi phản công nhanh cũng khó áp dụng với 4-5-1. Thay vào đó, tiền đạo cắm phải nỗ lực giữ bóng để chờ các tiền vệ dâng lên trước khi tìm cách phối hợp. Khoảng thời gian đó cho phép hậu vệ đối phương kịp ổn định vị trí và mất đi tính bất ngờ trong đợt phản công.
+
+Những đội sử dụng: Sunderland, Norwich.
+
+Sơ đồ khắc chế
+Ba cầu thủ chơi trung tâm trong 4-5-1 sẽ dễ dàng bắt chết 3 tiền vệ của 4-3-3, trong khi những tiền vệ biên của 4-5-1 sẽ hạn chế tối đa tầm hoạt động của các tiền đạo cánh trong 4-3-3. </string>
+
+    <string name="sodo_532"> Với một sơ đồ đông hậu vệ như thế này, bạn cần tỉnh táo điều khiển cầu thủ, tránh sự dẫm chân lên nhau ở các vị trí. Chú ý với một khu trung lộ đông hậu vệ như thế này, đối thủ sẽ có những pha tạt cánh để tiếp cận khung thành của bạn. Hãy cố gắng bắt chết những đường tạt cánh của đối thủ. Khi đã cướp được bóng, các bạn nên dùng những chuyền vượt tuyến QW để đưa bóng lên cho tiền đạo của mình. Vì khi đội hình của mình lùi sâu, đội hình đối thủ sẽ dâng lên rất cao để gây áp lực lên khung thành của mình. Khoảng trống trên phần sân đối thủ là rất lớn. Hãy cố gắng tận dụng những pha bóng như thế để giải quyết trận đấu. Còn khi bạn gặp phải những đối thủ sử dụng sơ đồ 523, hãy đá chậm lại để tìm ra những sơ hở của đối phương, tận dụng những pha tạt cánh, tránh chuyền vội, chuyền ẩu vì khi mất bóng, sẽ rất dễ phải nhận bàn thua. Quan trọng nhất bạn phải thật bình tĩnh để xử lý bóng một cách ổn thỏa nhất. </string>
+
+
 </resources>
