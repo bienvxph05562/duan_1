@@ -21,6 +21,12 @@
             android:id="@+id/nav_hoatdongtrongthang"
             android:icon="@drawable/ic_av_timer_black_24dp"
             android:title="Hoạt động trong tháng" />
+
+        <item
+
+            android:id="@+id/nav_tintuctrongngay"
+            android:icon="@drawable/ic_fiber_new_black_24dp"
+            android:title="Tin tức trong ngày" />
     </group>
 
     <item android:title="Communicate">

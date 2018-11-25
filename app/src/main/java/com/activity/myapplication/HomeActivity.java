@@ -118,6 +118,9 @@ public class HomeActivity extends AppCompatActivity
                     dialog2.dismiss();
                 }
             });
+        }else if (id == R.id.nav_tintuctrongngay) {
+            Intent intent5 = new Intent(HomeActivity.this, TinTucTrongNgayActivity.class);
+            startActivity(intent5);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

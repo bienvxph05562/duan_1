@@ -3,6 +3,7 @@
     package="com.activity.myapplication">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -50,7 +51,8 @@
         <activity android:name=".thang.Thang12Activity" />
         <activity android:name=".thang.Thang4Activity" />
         <activity android:name=".thang.Thang7Activity" />
-        <activity android:name=".ThemListActivity"></activity>
+        <activity android:name=".ThemListActivity" />
+        <activity android:name=".TinTucTrongNgayActivity"></activity>
     </application>
 
 </manifest>
