@@ -31,6 +31,7 @@
                 />
             
             <EditText
+                android:text="admin"
                 android:textColor="#FFFF"
                 android:id="@+id/edtTaikhoan"
                 android:layout_width="match_parent"
@@ -48,6 +49,7 @@
 
 
             <EditText
+                android:text="admin"
                 android:textColor="#FFFF"
                 android:id="@+id/edtMatkhau"
                 android:layout_width="match_parent"
