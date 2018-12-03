@@ -95,6 +95,10 @@ public class HomeActivity extends AppCompatActivity
             Intent intent4 = new Intent(HomeActivity.this, HoatDongTrongThangActivity.class);
             startActivity(intent4);
 
+        } else if (id == R.id.nav_truso) {
+            Intent intent4 = new Intent(HomeActivity.this, MapsActivity.class);
+            startActivity(intent4);
+
         } else if (id == R.id.nav_thoat) {
             AlertDialog.Builder builder = new AlertDialog.Builder(HomeActivity.this);
             View view = getLayoutInflater().inflate(R.layout.dialog_thoat, null);

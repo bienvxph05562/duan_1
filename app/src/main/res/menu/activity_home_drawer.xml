@@ -27,6 +27,12 @@
             android:id="@+id/nav_tintuctrongngay"
             android:icon="@drawable/ic_fiber_new_black_24dp"
             android:title="Tin tức trong ngày" />
+
+        <item
+
+            android:id="@+id/nav_truso"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Trụ sở đội bóng" />
     </group>
 
     <item android:title="Communicate">
